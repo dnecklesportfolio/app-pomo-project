@@ -12,7 +12,7 @@ export default  class IntroScreen extends React.Component {
     return (
      <View style={styles.container}>
 
-        <Text>Intro screen </Text>
+        <Text>Intro screentetst</Text>
               
   </View>
     );
